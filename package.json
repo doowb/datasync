@@ -1,0 +1,24 @@
+{
+  "name": "destiny",
+  "version": "0.0.1",
+  "description": "Control the fate of your actions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mochaTest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doowb/destiny.git"
+  },
+  "keywords": [
+    "cause",
+    "effect",
+    "data",
+    "mapper"
+  ],
+  "author": "Brian Woodward",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doowb/destiny/issues"
+  }
+}
