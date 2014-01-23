@@ -1,25 +1,27 @@
 {
-  "name": "destiny",
+  "name": "datasync",
   "version": "0.0.1",
-  "description": "Control the fate of your actions.",
+  "description": "Keep your data up-to-date between different systems",
   "main": "index.js",
   "scripts": {
     "test": "mochaTest"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/doowb/destiny.git"
+    "url": "https://github.com/doowb/datasync.git"
   },
   "keywords": [
-    "cause",
-    "effect",
     "data",
-    "mapper"
+    "datasync",
+    "sync",
+    "sync data",
+    "mapper",
+    "map data"
   ],
   "author": "Brian Woodward",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/doowb/destiny/issues"
+    "url": "https://github.com/doowb/datasync/issues"
   },
   "devDependencies": {
     "grunt": "~0.4.2",
