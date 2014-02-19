@@ -13,10 +13,8 @@
  * @type {[type]}
  */
 
-var utils = require('utils'); 
-
 var config = module.exports = {};
 
 config.load = function(options) {
-	return utils.data.readOptions(options);
+	return {};
 };
